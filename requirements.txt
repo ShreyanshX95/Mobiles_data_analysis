@@ -3,3 +3,4 @@ seaborn
 matplotlib
 plotly
 numpy
+base64
