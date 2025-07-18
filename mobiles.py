@@ -23,6 +23,14 @@ st.set_page_config(
 st.markdown(
     """
     <style>
+        h1, h2, h3, h4, h5, h6 {
+            color: white !important;
+        }
+        .stMarkdown p {
+            color: white;
+        }
+    </style>
+    <style>
     /* Use Inter font globally */
     html, body, [class*="css"]  {
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
